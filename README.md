@@ -9,6 +9,10 @@ The XSS payload will be printed on screen with the IP address specified by start
 
 ![XSS-Keylogger](https://github.com/eMVee-NL/XSS-Keylogger/blob/main/XSS-Keylogger.png?raw=true?raw=true)
 
+### Get the script
+```
+git clone https://github.com/eMVee-NL/XSS-Keylogger.git
+```
 
 ### Usage
 Default it wil use any IP address and port 80
